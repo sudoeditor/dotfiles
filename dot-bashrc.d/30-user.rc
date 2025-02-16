@@ -1,0 +1,2 @@
+alias ls="ls --almost-all --color=auto --group-directories-first --human-readable -l"
+command -v vim &>/dev/null && export EDITOR="$(which vim)" || export EDITOR="$(which nano)"
