@@ -1,0 +1,9 @@
+[commit]
+    verbose = true
+[core]
+    excludesFile = ~/.gitignore
+[init]
+    defaultBranch = main
+[user]
+    email = 198113122+sudoeditor@users.noreply.github.com
+    name = sudoeditor
